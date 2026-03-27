@@ -1,14 +1,18 @@
-# Fullstack-JS-Learning-Demos
+# Learn Javascript Fullstack
 
-A collection of fullstack JavaScript projects and learning exercises. This repo covers modern web development using HTML, CSS, and vanilla JavaScript, providing a solid foundation for web architecture.
+Learning path and demonstrations for fullstack JavaScript development.
 
-## ┬┐ Features
-- **Responsive Layouts**: Implementation of CSS Flexbox and Grid.
-- **Dynamic Content**: JavaScript DOM manipulation demos.
-- **Client-side Logic**: Asynchronous programming and API integration examples.
+## Features
+- {Feature Description}
+- Detailed project mapping
+- Standardized branding
 
-## ┬┐ Project Structure
-- `src/`: Core development files (HTML, CSS, JS).
+## Tech Stack
+- **Primary**: Javascript
+- **Domain**: Node Js
+
+## License
+MIT License — see [LICENSE](LICENSE)
 
 ---
-*Created by DinhLucent - 2022 (Updated 2026)*
+Built by [DinhLucent](https://github.com/DinhLucent)
